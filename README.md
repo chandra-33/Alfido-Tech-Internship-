@@ -1,2 +1,0 @@
-# Alfido-Tech-Internship-
-python
